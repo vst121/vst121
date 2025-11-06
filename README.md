@@ -31,7 +31,7 @@ Another project: description + tech used.
 
 ---
 
-⭐ “Insert your favorite quote about coding here.”
+⭐ “True innovation begins when the systems we build start to reflect how we think.”
 <!--
 **vst121/vst121** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
