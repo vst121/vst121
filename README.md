@@ -47,9 +47,15 @@
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vst121&theme=radical" alt="Vahid's GitHub Streak" />
+
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vst121&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
 </p>
+
 ---
 
 ## 🌐 Let's Connect
@@ -58,17 +64,3 @@
 ---
 
 ⭐ “True innovation begins when the systems we build start to reflect how we think.”
-<!--
-**vst121/vst121** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
