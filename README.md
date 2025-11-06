@@ -26,7 +26,7 @@ Another project: description + tech used.
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahid-saadat/)
 
 ---
