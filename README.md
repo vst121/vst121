@@ -47,9 +47,10 @@
 ---
 
 ## 📊 GitHub Stats  
-![Vahid’s GitHub stats](link-to-github-readme-stats-image)  
-*(use the stat tool to generate the image link)*
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vst121&show_icons=true&theme=radical" alt="Vahid's GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vst121&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
+</p>
 ---
 
 ## 🌐 Let's Connect
