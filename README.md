@@ -1,31 +1,21 @@
-# Hi there, I’m Vahid Saadat 👋
+# Hi there, I’m Vahid 👋
 
-I’m a Software Engineer based in Mannheim, Germany.  
-I enjoy building applications in C#, exploring AI, and improving my craft every day 🚀✨.
+💻 I’m a Software Engineer based in Mannheim, Germany.  
+🎯 I enjoy building applications in C# .NET, exploring AI, and improving my craft every day 🚀✨.
 
 ---
 
-## 💻 Tech Stack  
-### Programming & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
+## 🛠️ Tech Stack  
 
-### Cloud & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Foundry%20AI-0089D6?style=for-the-badge&logo=azurepipelines&logoColor=white" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-### Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>---
-
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-0A66C2?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Foundry_AI-0089D6?style=flat-square&logo=azurepipelines&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  
 ---
 
 ## 📊 GitHub Stats  
