@@ -27,7 +27,7 @@ Another project: description + tech used.
 ---
 
 ## 📫 Connect With Me  
-[LinkedIn](your-linkedin-link) • [Portfolio](your-portfolio-link) • email@yourdomain.com
+[LinkedIn]([your-linkedin-link](https://www.linkedin.com/in/vahid-saadat/)) 
 
 ---
 
