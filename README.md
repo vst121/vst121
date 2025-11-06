@@ -1,27 +1,30 @@
 # Hi there, I’m Vahid Saadat 👋
 
 I’m a Software Engineer based in Mannheim, Germany.  
-I enjoy building applications in C#, exploring AI, and improving my craft every day ✨.
+I enjoy building applications in C#, exploring AI, and improving my craft every day 🚀✨.
 
 ---
 
 ## 💻 Tech Stack  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Azure Foundry AI](https://img.shields.io/badge/Azure%20Foundry%20AI-0089D6?style=for-the-badge&logo=azurepipelines&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge&logo=openai&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
----
+### Programming & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
 
-## 🚀 Featured Projects  
-### [ProjectName1](link-to-repo)  
-Short one-line description of what it does and the tech used.
+### Cloud & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Foundry%20AI-0089D6?style=for-the-badge&logo=azurepipelines&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-### [ProjectName2](link-to-repo)  
-Another project: description + tech used.
+### Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>---
 
 ---
 
