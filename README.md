@@ -60,9 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vst121&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vst121&theme=onedark&column=7&margin-w=10&margin-h=10" alt="Vahid's trophies"/>
-</p>
 ---
 
 ## 🌐 Let's Connect
