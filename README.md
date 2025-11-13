@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vst121&layout=donut&theme=radical" alt="Vahid's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vst121&layout=donut-vertical&theme=radical" alt="Vahid's Top Languages" />
 </p>
 
 
