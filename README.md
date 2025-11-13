@@ -60,10 +60,6 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vst121&theme=radical" alt="Vahid's GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vst121&theme=radical" alt="Vahid's GitHub Streak" />
-</p>
-
 ---
 
 ## 🌐 Let's Connect
