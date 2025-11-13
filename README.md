@@ -49,10 +49,6 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vst121&theme=radical" alt="Vahid's GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vst121&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Vahid's Activity Graph"/>
 </p>
 
@@ -63,6 +59,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vst121&layout=compact&theme=radical" alt="Vahid's Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vst121&layout=donut" alt="Vahid's Top Languages" />
+</p>
+
+
 
 
 ---
