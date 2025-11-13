@@ -64,6 +64,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=vst121&theme=github" alt="Top Languages" height="180em"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourUserName/YourUserName/output/github-contribution-grid-snake.svg" alt="Top Languages" height="180em"/>
+</p>
+
+
 
 ---
 
