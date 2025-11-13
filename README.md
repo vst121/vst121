@@ -53,11 +53,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vst121&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vst121&theme=radical" alt="Vahid's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=vst121&theme=radical" alt="Vahid's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vst121&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
 </p>
 
 ---
