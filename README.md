@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=vst121&layout=donut-vertical&theme=radical" alt="Vahid's Top Languages" onerror="this.src='https://via.placeholder.com/200x100?text=Stats+Unavailable';](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vst121&theme=radical)" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vst121&theme=radical" />
 </p>
 
 ---
