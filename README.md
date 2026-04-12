@@ -1,7 +1,7 @@
 # Hi there, I’m Vahid 👋
 
 💻 I’m a Software Engineer based in Mannheim, Germany.  
-🎯 I enjoy building applications in C# .NET, exploring AI, and improving my craft every day 🚀✨.
+🎯 I enjoy building applications in C# .NET and Python, exploring AI, and improving my craft every day 🚀✨.
 
 ---
 
