@@ -7,7 +7,8 @@
 
 ## 🛠️ Tech Stack  
 
-<p>
+<table><tr>
+  <td>
   <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img style="display:inline-block;"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40"/>
@@ -51,7 +52,9 @@
   <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>  
   <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
   <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>  
-</p>  
+  </td>
+</tr>
+</table>  
 
 ---
 
