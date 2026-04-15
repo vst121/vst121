@@ -7,7 +7,7 @@
 
 ## 🛠️ Tech Stack  
 
-<table style="align:center; border:0; ">
+<table align="center">
   <tr>
   <td>
   <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
