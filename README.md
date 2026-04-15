@@ -61,7 +61,10 @@
   <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
   </td><td>  
   <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="40" height="40"/>
-  </td><td>  
+  </td>
+  </tr>
+  <tr>
+  <td>      
   <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docler" width="40" height="40"/>
   </td><td>  
   <img style="display:inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Docler" width="40" height="40"/>
