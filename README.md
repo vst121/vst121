@@ -108,7 +108,10 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vst121&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Vahid's Activity Graph"    onerror="this.style.display='none';"/>
+  <picture>
+    <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=vst121&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true">
+    <img src="https://img.shields.io/badge/GitHub-Activity%20Graph%20Temporarily%20Offline-0d1117?style=for-the-badge&logo=github&color=00FFFF" alt="Vahid's Activity Graph" />
+  </picture>
 </p>
 
 <p align="center">
