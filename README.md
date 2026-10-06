@@ -108,7 +108,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vst121&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Vahid's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vst121&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" alt="Vahid's Activity Graph"    onerror="this.style.display='none';"/>
 </p>
 
 <p align="center">
@@ -126,4 +126,4 @@
 
 ---
 
-⭐ “At the edge of thought and dream, we begin to shape systems that breathe as we do, guided by wonder and alive with the quiet pulse of imagination. What once lay hidden beyond distant horizons now gathers like stardust in our hands, arriving sooner than a whispered spell and unfolding with a softness that makes the extraordinary feel close, effortless, and within reach.”
+⭐ “Designing intelligent architectures where software engineering meets human ingenuity, turning complex ideas into seamless innovation.”
