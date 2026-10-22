@@ -1,6 +1,6 @@
 # Hi there, I’m Vahid 👋
 
-💻 Senior Software Engineer & Architect based in Mannheim, Germany
+💻 Software Architect specializing in AI Engineering & Enterprise Systems | Mannheim, Germany
 
 With 17+ years of experience in software engineering and architecture, mostly across banking, payments, and fintech, I bring a broad, end-to-end perspective to building large-scale enterprise systems. Having worked across the entire lifecycle, from developer and business analyst to team lead and software architect, I bridge the gap between business strategy and technical execution.
 
