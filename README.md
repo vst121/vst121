@@ -4,6 +4,7 @@
 🎯 With 17+ years of experience in software engineering and architecture across banking, payments, and fintech, I bring a broad, end-to-end perspective to building large-scale enterprise systems. Having worked across the entire lifecycle, from developer and business analyst to team lead and software architect, I bridge the gap between business strategy and technical execution.
 
 Today, I leverage this background to drive innovation in AI Engineering and Agentic AI. My primary focus is on engineering robust AI-native architectures, specializing in agent orchestration, tool integration, evaluation frameworks, and system observability.
+
 ---
 
 ## 🛠️ Tech Stack  
